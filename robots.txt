@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://votre-domaine.fr/sitemap.xml
+Sitemap: https://vipera7.github.io/parrainage/sitemap.xml
